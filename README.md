@@ -7,3 +7,7 @@
 ## Datos
 
 Los datos del proyecto vienen de https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/description
+
+## Videos
+
+PRIMER VIDEO: https://youtu.be/cVKsNi6vZ8Q
