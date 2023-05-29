@@ -14,4 +14,4 @@ Los datos del proyecto vienen de https://www.kaggle.com/competitions/house-price
 
 PRIMER VIDEO: https://youtu.be/cVKsNi6vZ8Q
 
-VIDEO ENTREGA FINAL:  https://youtu.be/pzmizk57smI
+VIDEO ENTREGA FINAL:  https://youtu.be/q3qV2iOOSak
