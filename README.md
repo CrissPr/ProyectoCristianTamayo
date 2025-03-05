@@ -2,7 +2,7 @@
 
 ## Miembro
 
-- Cristian David Tamayo Espinosa CC 1007240828  Ing de Sistemas
+- Cristian David Tamayo Espinosa Ing de Sistemas
 
 ## Datos
 
